@@ -1,123 +1,62 @@
+
 ---
 layout: default
+title: Rahul's Portfolio
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Welcome to My Portfolio
 
-[Link to another page](./another-page.html).
+## About Me
+Hello! I am **Rahul**, a Cloud DevSecOps Engineer specializing in **Azure Security**. I am passionate about designing secure cloud environments, automating workflows, and ensuring compliance across multi-cloud platforms. 
 
-There should be whitespace between paragraphs.
+With a strong background in **cloud security**, **DevSecOps**, and hands-on experience with tools like **Microsoft Sentinel**, **Azure AD**, and **Kubernetes**, I help organizations build robust and scalable solutions.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+## Skills
+- **Cloud Platforms**: Azure (Azure AD, Sentinel, NSGs, Key Vault, Azure Automation), AWS
+- **Security**: IAM, RBAC, MFA, Threat Detection, Incident Response, Vulnerability Assessment
+- **DevOps Tools**: CI/CD Pipelines, Docker, Kubernetes
+- **Programming**: Python, Bash
+- **Certifications**: AZ-104, AZ-500, AZ-400, SC-900, SC-200
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+---
 
-## Header 2
+## Projects
+### 1. [Secure Cloud Environment for a Coffee Shop](https://github.com/your-coffee-shop-project)
+- Designed and implemented a secure cloud infrastructure using **Azure**.
+- Tools: Azure VMs, VNets, NSGs, Azure AD, RBAC, MFA, Conditional Access, and more.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### 2. [Azure IAM Security Lab](https://github.com/your-iam-security-lab)
+- Created an interactive lab focusing on managing roles, permissions, and multi-factor authentication.
 
-### Header 3
+### 3. [Threat Detection and Incident Response with Sentinel](https://github.com/your-sentinel-project)
+- Integrated **Microsoft Sentinel** for advanced threat monitoring and customized alerts using **Log Analytics** and **Azure Monitor**.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+---
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## Certifications
+- **Microsoft Certified: Azure Administrator Associate (AZ-104)**
+- **Microsoft Certified: Azure Security Engineer Associate (AZ-500)**
+- **Microsoft Certified: DevOps Engineer Expert (AZ-400)**
+- **Microsoft Certified: Security Operations Analyst (SC-200)**
 
-#### Header 4
+---
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## Contact Me
+Feel free to reach out for collaboration, questions, or consultations:
+- **LinkedIn**: [linkedin.com/in/rahul-profile](https://linkedin.com/in/rahul-profile)
+- **GitHub**: [github.com/rahul](https://github.com/rahul)
+- **Email**: rahul@example.com
 
-##### Header 5
+---
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## Blog
+Check out my blog on **Cloud Security and DevSecOps**:
+- [Understanding Azure Sentinel for Beginners](https://your-blog-url)
+- [Guide to IAM and Role-Based Access Control](https://your-blog-url)
+- [Securing Kubernetes Clusters](https://your-blog-url)
 
-###### Header 6
+---
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Thank you for visiting my portfolio!
