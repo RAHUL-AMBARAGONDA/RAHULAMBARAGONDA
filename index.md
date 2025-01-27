@@ -48,6 +48,11 @@ Feel free to reach out for collaboration, questions, or consultations:
 - **Email**: rahul@example.com
 
 ---
+## Highlights of My Projects (Preview)
+- ✅ Developed a **DevSecOps framework** integrating dynamic compliance and AI-driven threat detection.
+- ✅ Designed **zero-trust Kubernetes clusters** with runtime security.  
+[See All Projects](projects.md)
+
 
 ## Blog
 Check out my blog on **Cloud Security and DevSecOps**:
