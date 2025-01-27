@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Rahul's Portfolio
@@ -7,39 +6,38 @@ title: Rahul's Portfolio
 # Welcome to My Portfolio
 
 ## About Me
-Hello! I am **Rahul**, a Cloud DevSecOps Engineer specializing in **Azure Security**. I am passionate about designing secure cloud environments, automating workflows, and ensuring compliance across multi-cloud platforms. 
-
-With a strong background in **cloud security**, **DevSecOps**, and hands-on experience with tools like **Microsoft Sentinel**, **Azure AD**, and **Kubernetes**, I help organizations build robust and scalable solutions.
+I am a **results-driven Cloud DevSecOps Engineer** with over **3 years of experience** in designing and implementing secure, scalable, and automated cloud environments. My expertise lies in merging **DevOps best practices** with **security-first principles** to deliver innovative solutions that address real-world challenges in cloud-native applications.
 
 ---
 
-## Skills
-- **Cloud Platforms**: Azure (Azure AD, Sentinel, NSGs, Key Vault, Azure Automation), AWS
-- **Security**: IAM, RBAC, MFA, Threat Detection, Incident Response, Vulnerability Assessment
-- **DevOps Tools**: CI/CD Pipelines, Docker, Kubernetes
-- **Programming**: Python, Bash
-- **Certifications**: AZ-104, AZ-500, AZ-400, SC-900, SC-200
+## Expertise
+I specialize in:
+- Building **secure CI/CD pipelines** with advanced threat detection and shift-left security policies.
+- Designing **zero-trust Kubernetes architectures** to secure containerized workloads.
+- Automating **multi-cloud infrastructure (Azure & AWS)** using Terraform and ensuring compliance with industry standards.
+- Integrating observability and monitoring tools like **Prometheus**, **Grafana**, and **Azure Sentinel** to detect and respond to threats in real time.
 
 ---
 
-## Projects
-### 1. [Secure Cloud Environment for a Coffee Shop](https://github.com/your-coffee-shop-project)
-- Designed and implemented a secure cloud infrastructure using **Azure**.
-- Tools: Azure VMs, VNets, NSGs, Azure AD, RBAC, MFA, Conditional Access, and more.
-
-### 2. [Azure IAM Security Lab](https://github.com/your-iam-security-lab)
-- Created an interactive lab focusing on managing roles, permissions, and multi-factor authentication.
-
-### 3. [Threat Detection and Incident Response with Sentinel](https://github.com/your-sentinel-project)
-- Integrated **Microsoft Sentinel** for advanced threat monitoring and customized alerts using **Log Analytics** and **Azure Monitor**.
+## Highlights of My Work
+- ✅ Led the development of a **state-of-the-art DevSecOps framework** that integrates security gates, dynamic compliance, and AI-driven threat detection for CI/CD pipelines.
+- ✅ Designed a **zero-trust Kubernetes cluster** with runtime security using tools like OPA Gatekeeper and Falco, ensuring end-to-end protection against vulnerabilities.
+- ✅ Automated **secure cloud infrastructure provisioning** using Terraform, achieving significant cost optimization and scalability.
+- ✅ Solved critical industry challenges like **supply chain attacks** with policy-as-code and secure artifact management.
 
 ---
 
 ## Certifications
-- **Microsoft Certified: Azure Administrator Associate (AZ-104)**
 - **Microsoft Certified: Azure Security Engineer Associate (AZ-500)**
-- **Microsoft Certified: DevOps Engineer Expert (AZ-400)**
-- **Microsoft Certified: Security Operations Analyst (SC-200)**
+- **Microsoft Certified: Azure Administrator Associate (AZ-104)**
+- **Microsoft Cybersecurity**
+
+---
+
+## Passionate About
+- 🌐 Researching **emerging threats** and implementing cutting-edge solutions.
+- 📈 Developing tools and strategies that empower businesses to embrace **DevSecOps**.
+- 🎓 Sharing knowledge through **blogs, presentations, and mentorship** to help others excel in cloud security.
 
 ---
 
@@ -53,9 +51,9 @@ Feel free to reach out for collaboration, questions, or consultations:
 
 ## Blog
 Check out my blog on **Cloud Security and DevSecOps**:
-- [Understanding Azure Sentinel for Beginners](https://your-blog-url)
-- [Guide to IAM and Role-Based Access Control](https://your-blog-url)
-- [Securing Kubernetes Clusters](https://your-blog-url)
+- [Building Secure CI/CD Pipelines](https://your-blog-url)
+- [Zero-Trust Kubernetes Architectures](https://your-blog-url)
+- [Automating Multi-Cloud Infrastructure with Terraform](https://your-blog-url)
 
 ---
 
