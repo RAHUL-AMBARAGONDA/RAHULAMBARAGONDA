@@ -43,9 +43,9 @@ I specialize in:
 
 ## Contact Me
 Feel free to reach out for collaboration, questions, or consultations:
-- **LinkedIn**: [linkedin.com/in/rahul-profile](https://linkedin.com/in/rahul-profile)
-- **GitHub**: [github.com/rahul](https://github.com/rahul)
-- **Email**: rahul@example.com
+- **LinkedIn**: [linkedin.com/in/rahul-profile](https://www.linkedin.com/in/rahul-ambaragonda-79322127a/)
+- **GitHub**: [github.com/rahul](https://github.com/dashboard)
+- **Email**: rahulambaragondaa@gmail.com
 
 ---
 
@@ -57,17 +57,12 @@ This project showcases a secure, automated DevSecOps pipeline for the Infinite M
 
  For more details, check out the full project here: [Project 1 - Infinite Mario DevSecOps Pipeline](https://github.com/RAHUL-AMBARAGONDA/Ulitimate-DevSecOps-Project.git)
 
-
-
-
-
 - ✅ Designed **zero-trust Kubernetes clusters** with runtime security.  
 [See All Projects](projects.md)
 
 ---
 
-## Blog
-## Blog
+## Blogs
 Check out my blog on **Cloud Security and DevSecOps** where I share insights, tutorials, and best practices:
 
 - [Building a Scalable and Secure DevSecOps Pipeline for Infinite Mario Game](https://cloudsimplified.hashnode.dev/building-a-scalable-and-secure-devsecops-pipeline-for-infinite-mario-game)
