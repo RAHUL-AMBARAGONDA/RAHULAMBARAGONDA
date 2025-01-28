@@ -48,13 +48,15 @@ Feel free to reach out for collaboration, questions, or consultations:
 - **Email**: rahul@example.com
 
 ---
- 
+ ## Projects
+ - # Welcome to My DevSecOps Projects
 
-- ✅ ## Building a Scalable and Secure DevSecOps Pipeline for Infinite Mario Game
+## Building a Scalable and Secure DevSecOps Pipeline for Infinite Mario Game
 
 This project showcases a secure, automated DevSecOps pipeline for the Infinite Mario JavaScript game, emphasizing code quality, security, and seamless deployment. It integrates SonarQube for SAST, Grype for container security, and IaC with Azure Kubernetes Service (AKS). Using GitHub Actions, the CI/CD workflow ensures rapid, secure, and reliable releases, demonstrating a robust DevSecOps lifecycle for cloud-based applications.
 
 For more details, check out the full project here: [Project 1 - Infinite Mario DevSecOps Pipeline](project1.md)
+
 
 - ✅ Designed **zero-trust Kubernetes clusters** with runtime security.  
 [See All Projects](projects.md)
