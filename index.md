@@ -55,7 +55,8 @@ Feel free to reach out for collaboration, questions, or consultations:
 
 This project showcases a secure, automated DevSecOps pipeline for the Infinite Mario JavaScript game, emphasizing code quality, security, and seamless deployment. It integrates SonarQube for SAST, Grype for container security, and IaC with Azure Kubernetes Service (AKS). Using GitHub Actions, the CI/CD workflow ensures rapid, secure, and reliable releases, demonstrating a robust DevSecOps lifecycle for cloud-based applications.
 
- For more details, check out the full project here: [Project 1 - Infinite Mario DevSecOps Pipeline](projects_1.md)
+ For more details, check out the full project here: [Project 1 - Infinite Mario DevSecOps Pipeline](https://github.com/RAHUL-AMBARAGONDA/Ulitimate-DevSecOps-Project.git)
+
 
 
 
