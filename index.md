@@ -67,10 +67,15 @@ This project showcases a secure, automated DevSecOps pipeline for the Infinite M
 ---
 
 ## Blog
-Check out my blog on **Cloud Security and DevSecOps**:
-- [Building Secure CI/CD Pipelines](https://your-blog-url)
-- [Zero-Trust Kubernetes Architectures](https://your-blog-url)
-- [Automating Multi-Cloud Infrastructure with Terraform](https://your-blog-url)
+## Blog
+Check out my blog on **Cloud Security and DevSecOps** where I share insights, tutorials, and best practices:
+
+- [Building a Scalable and Secure DevSecOps Pipeline for Infinite Mario Game](https://cloudsimplified.hashnode.dev/building-a-scalable-and-secure-devsecops-pipeline-for-infinite-mario-game)
+- [Optimizing Jenkins Log Storage with Amazon S3 and Glacier: A Cost-Efficient Solution for CI Pipelines](https://cloudsimplified.hashnode.dev/optimizing-jenkins-log-storage-with-amazon-s3-and-glacier-a-cost-efficient-solution-for-ci-pipelines)
+- [Upgrading a Kubernetes Cluster on Azure Kubernetes Service (AKS) Without Downtime: A Complete Guide](https://cloudsimplified.hashnode.dev/upgrading-a-kubernetes-cluster-on-aws-eks-without-downtime-a-complete-guide)
+
+Additionally, explore more of my articles on **Cloud Simplified** through my Hashnode blog:
+- [Cloud Simplified on Hashnode](https://cloudsimplified.hashnode.dev/)
 
 ---
 
