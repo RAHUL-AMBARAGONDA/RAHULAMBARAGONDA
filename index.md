@@ -28,9 +28,12 @@ I specialize in:
 ---
 
 ## Certifications
-- **Microsoft Certified: Azure Security Engineer Associate (AZ-500)**
-- **Microsoft Certified: Azure Administrator Associate (AZ-104)**
-- **Microsoft Cybersecurity**
+Here are some of my key certifications that showcase my expertise:
+
+- **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)** - [View Certification](https://learn.microsoft.com/en-in/users/rahulambaragonda-6240/credentials/2be04f30f92f1307?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- **Microsoft Cybersecurity Analyst** - [View Certification](https://www.coursera.org/account/accomplishments/specialization/4PDQ9NC9UZ4Q?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n)
+- **Cybersecurity Solutions and Microsoft Defender** - [View Certification](https://www.coursera.org/account/accomplishments/verify/D3JCEBTJLQVT?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course)
+
 
 ---
 
@@ -57,8 +60,6 @@ This project showcases a secure, automated DevSecOps pipeline for the Infinite M
 
  For more details, check out the full project here: [Project 1 - Infinite Mario DevSecOps Pipeline](https://github.com/RAHUL-AMBARAGONDA/Ulitimate-DevSecOps-Project.git)
 
-- ✅ Designed **zero-trust Kubernetes clusters** with runtime security.  
-[See All Projects](projects.md)
 
 ---
 
