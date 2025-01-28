@@ -91,6 +91,6 @@ Explore the complete project on GitHub: [Ultimate DevSecOps Project](https://git
 
 This project highlights the power of **DevSecOps** in bridging the gap between development, operations, and security. By integrating tools like SonarQube, Grype, and GitHub Actions with cloud infrastructure such as AKS, secure and scalable pipelines can deliver quality software faster than ever.
 
-Explore the full implementation on GitHub: [Ultimate DevSecOps Project](https://github.com/RAHUL-AMBARAGONDA/Ulitimate-DevS..)
+Explore the full implementation on GitHub: [Ultimate DevSecOps Project](https://github.com/RAHUL-AMBARAGONDA/Ulitimate-DevSecOps-Project.git)
 
 [Back to All Projects](../projects.md)
